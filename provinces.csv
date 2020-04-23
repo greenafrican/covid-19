@@ -1,0 +1,381 @@
+date,province,positive
+2020-03-17,Western Cape,12
+2020-03-17,Gauteng,69
+2020-03-17,KwaZulu-Natal,13
+2020-03-17,Eastern Cape,0
+2020-03-17,Unknown,0
+2020-03-17,Free State,0
+2020-03-17,North West,0
+2020-03-17,Mpumalanga,4
+2020-03-17,Limpopo,0
+2020-03-17,Northern Cape,0
+2020-03-18,Western Cape,13
+2020-03-18,Gauteng,93
+2020-03-18,KwaZulu-Natal,17
+2020-03-18,Eastern Cape,0
+2020-03-18,Unknown,0
+2020-03-18,Free State,1
+2020-03-18,North West,0
+2020-03-18,Mpumalanga,4
+2020-03-18,Limpopo,0
+2020-03-18,Northern Cape,0
+2020-03-19,Western Cape,15
+2020-03-19,Gauteng,108
+2020-03-19,KwaZulu-Natal,17
+2020-03-19,Eastern Cape,0
+2020-03-19,Unknown,0
+2020-03-19,Free State,1
+2020-03-19,North West,0
+2020-03-19,Mpumalanga,4
+2020-03-19,Limpopo,0
+2020-03-19,Northern Cape,0
+2020-03-20,Western Cape,21
+2020-03-20,Gauteng,155
+2020-03-20,KwaZulu-Natal,23
+2020-03-20,Eastern Cape,0
+2020-03-20,Unknown,0
+2020-03-20,Free State,1
+2020-03-20,North West,1
+2020-03-20,Mpumalanga,5
+2020-03-20,Limpopo,3
+2020-03-20,Northern Cape,0
+2020-03-21,Western Cape,26
+2020-03-21,Gauteng,210
+2020-03-21,KwaZulu-Natal,42
+2020-03-21,Eastern Cape,0
+2020-03-21,Unknown,0
+2020-03-21,Free State,3
+2020-03-21,North West,4
+2020-03-21,Mpumalanga,6
+2020-03-21,Limpopo,3
+2020-03-21,Northern Cape,0
+2020-03-22,Western Cape,33
+2020-03-22,Gauteng,278
+2020-03-22,KwaZulu-Natal,57
+2020-03-22,Eastern Cape,0
+2020-03-22,Unknown,0
+2020-03-22,Free State,5
+2020-03-22,North West,5
+2020-03-22,Mpumalanga,6
+2020-03-22,Limpopo,3
+2020-03-22,Northern Cape,0
+2020-03-23,Western Cape,36
+2020-03-23,Gauteng,300
+2020-03-23,KwaZulu-Natal,60
+2020-03-23,Eastern Cape,0
+2020-03-23,Unknown,0
+2020-03-23,Free State,5
+2020-03-23,North West,6
+2020-03-23,Mpumalanga,6
+2020-03-23,Limpopo,4
+2020-03-23,Northern Cape,0
+2020-03-24,Western Cape,41
+2020-03-24,Gauteng,362
+2020-03-24,KwaZulu-Natal,74
+2020-03-24,Eastern Cape,2
+2020-03-24,Unknown,0
+2020-03-24,Free State,10
+2020-03-24,North West,11
+2020-03-24,Mpumalanga,6
+2020-03-24,Limpopo,4
+2020-03-24,Northern Cape,0
+2020-03-25,Western Cape,48
+2020-03-25,Gauteng,425
+2020-03-25,KwaZulu-Natal,98
+2020-03-25,Eastern Cape,2
+2020-03-25,Unknown,0
+2020-03-25,Free State,15
+2020-03-25,North West,13
+2020-03-25,Mpumalanga,6
+2020-03-25,Limpopo,5
+2020-03-25,Northern Cape,0
+2020-03-26,Western Cape,52
+2020-03-26,Gauteng,526
+2020-03-26,KwaZulu-Natal,118
+2020-03-26,Eastern Cape,3
+2020-03-26,Unknown,3
+2020-03-26,Free State,20
+2020-03-26,North West,14
+2020-03-26,Mpumalanga,6
+2020-03-26,Limpopo,7
+2020-03-26,Northern Cape,1
+2020-03-27,Western Cape,60
+2020-03-27,Gauteng,570
+2020-03-27,KwaZulu-Natal,141
+2020-03-27,Eastern Cape,6
+2020-03-27,Unknown,3
+2020-03-27,Free State,21
+2020-03-27,North West,14
+2020-03-27,Mpumalanga,8
+2020-03-27,Limpopo,9
+2020-03-27,Northern Cape,1
+2020-03-28,Western Cape,65
+2020-03-28,Gauteng,609
+2020-03-28,KwaZulu-Natal,148
+2020-03-28,Eastern Cape,8
+2020-03-28,Unknown,3
+2020-03-28,Free State,25
+2020-03-28,North West,16
+2020-03-28,Mpumalanga,9
+2020-03-28,Limpopo,9
+2020-03-28,Northern Cape,1
+2020-03-29,Western Cape,69
+2020-03-29,Gauteng,621
+2020-03-29,KwaZulu-Natal,151
+2020-03-29,Eastern Cape,9
+2020-03-29,Unknown,4
+2020-03-29,Free State,26
+2020-03-29,North West,17
+2020-03-29,Mpumalanga,9
+2020-03-29,Limpopo,10
+2020-03-29,Northern Cape,1
+2020-03-30,Western Cape,304
+2020-03-30,Gauteng,644
+2020-03-30,KwaZulu-Natal,169
+2020-03-30,Eastern Cape,10
+2020-03-30,Unknown,4
+2020-03-30,Free State,42
+2020-03-30,North West,17
+2020-03-30,Mpumalanga,9
+2020-03-30,Limpopo,14
+2020-03-30,Northern Cape,2
+2020-03-31,Western Cape,320
+2020-03-31,Gauteng,661
+2020-03-31,KwaZulu-Natal,174
+2020-03-31,Eastern Cape,12
+2020-03-31,Unknown,4
+2020-03-31,Free State,43
+2020-03-31,North West,18
+2020-03-31,Mpumalanga,9
+2020-03-31,Limpopo,14
+2020-03-31,Northern Cape,2
+2020-04-01,Western Cape,377
+2020-04-01,Gauteng,723
+2020-04-01,KwaZulu-Natal,256
+2020-04-01,Eastern Cape,16
+2020-04-01,Unknown,4
+2020-04-01,Free State,71
+2020-04-01,North West,18
+2020-04-01,Mpumalanga,20
+2020-04-01,Limpopo,17
+2020-04-01,Northern Cape,5
+2020-04-02,Western Cape,410
+2020-04-02,Gauteng,740
+2020-04-02,KwaZulu-Natal,264
+2020-04-02,Eastern Cape,17
+2020-04-02,Unknown,4
+2020-04-02,Free State,78
+2020-04-02,North West,18
+2020-04-02,Mpumalanga,21
+2020-04-02,Limpopo,17
+2020-04-02,Northern Cape,5
+2020-04-03,Western Cape,434
+2020-04-03,Gauteng,763
+2020-04-03,KwaZulu-Natal,284
+2020-04-03,Eastern Cape,20
+2020-04-03,Unknown,5
+2020-04-03,Free State,80
+2020-04-03,North West,18
+2020-04-03,Mpumalanga,23
+2020-04-03,Limpopo,17
+2020-04-03,Northern Cape,7
+2020-04-04,Western Cape,455
+2020-04-04,Gauteng,780
+2020-04-04,KwaZulu-Natal,299
+2020-04-04,Eastern Cape,37
+2020-04-04,Unknown,5
+2020-04-04,Free State,80
+2020-04-04,North West,18
+2020-04-04,Mpumalanga,24
+2020-04-04,Limpopo,18
+2020-04-04,Northern Cape,7
+2020-04-05,Western Cape,470
+2020-04-05,Gauteng,791
+2020-04-05,KwaZulu-Natal,311
+2020-04-05,Eastern Cape,38
+2020-04-05,Unknown,5
+2020-04-05,Free State,82
+2020-04-05,North West,19
+2020-04-05,Mpumalanga,24
+2020-04-05,Limpopo,18
+2020-04-05,Northern Cape,9
+2020-04-06,Western Cape,478
+2020-04-06,Gauteng,801
+2020-04-06,KwaZulu-Natal,337
+2020-04-06,Eastern Cape,40
+2020-04-06,Unknown,5
+2020-04-06,Free State,85
+2020-04-06,North West,19
+2020-04-06,Mpumalanga,24
+2020-04-06,Limpopo,18
+2020-04-06,Northern Cape,9
+2020-04-07,Western Cape,501
+2020-04-07,Gauteng,823
+2020-04-07,KwaZulu-Natal,371
+2020-04-07,Eastern Cape,44
+2020-04-07,Unknown,7
+2020-04-07,Free State,85
+2020-04-07,North West,22
+2020-04-07,Mpumalanga,24
+2020-04-07,Limpopo,19
+2020-04-07,Northern Cape,9
+2020-04-08,Western Cape,516
+2020-04-08,Gauteng,860
+2020-04-08,KwaZulu-Natal,413
+2020-04-08,Eastern Cape,62
+2020-04-08,Unknown,10
+2020-04-08,Free State,86
+2020-04-08,North West,24
+2020-04-08,Mpumalanga,26
+2020-04-08,Limpopo,20
+2020-04-08,Northern Cape,9
+2020-04-09,Western Cape,532
+2020-04-09,Gauteng,878
+2020-04-09,KwaZulu-Natal,447
+2020-04-09,Eastern Cape,73
+2020-04-09,Unknown,11
+2020-04-09,Free State,91
+2020-04-09,North West,26
+2020-04-09,Mpumalanga,26
+2020-04-09,Limpopo,20
+2020-04-09,Northern Cape,10
+2020-04-10,Western Cape,553
+2020-04-10,Gauteng,894
+2020-04-10,KwaZulu-Natal,456
+2020-04-10,Eastern Cape,77
+2020-04-10,Unknown,11
+2020-04-10,Free State,93
+2020-04-10,North West,27
+2020-04-10,Mpumalanga,27
+2020-04-10,Limpopo,21
+2020-04-10,Northern Cape,10
+2020-04-11,Western Cape,574
+2020-04-11,Gauteng,914
+2020-04-11,KwaZulu-Natal,477
+2020-04-11,Eastern Cape,94
+2020-04-11,Unknown,11
+2020-04-11,Free State,94
+2020-04-11,North West,27
+2020-04-11,Mpumalanga,27
+2020-04-11,Limpopo,21
+2020-04-11,Northern Cape,10
+2020-04-12,Western Cape,609
+2020-04-12,Gauteng,933
+2020-04-12,KwaZulu-Natal,489
+2020-04-12,Eastern Cape,112
+2020-04-12,Unknown,11
+2020-04-12,Free State,95
+2020-04-12,North West,31
+2020-04-12,Mpumalanga,27
+2020-04-12,Limpopo,21
+2020-04-12,Northern Cape,10
+2020-04-13,Western Cape,642
+2020-04-13,Gauteng,947
+2020-04-13,KwaZulu-Natal,524
+2020-04-13,Eastern Cape,126
+2020-04-13,Unknown,11
+2020-04-13,Free State,96
+2020-04-13,North West,31
+2020-04-13,Mpumalanga,28
+2020-04-13,Limpopo,22
+2020-04-13,Northern Cape,10
+2020-04-14,Western Cape,670
+2020-04-14,Gauteng,967
+2020-04-14,KwaZulu-Natal,546
+2020-04-14,Eastern Cape,202
+2020-04-14,Unknown,11
+2020-04-14,Free State,96
+2020-04-14,North West,32
+2020-04-14,Mpumalanga,28
+2020-04-14,Limpopo,23
+2020-04-14,Northern Cape,10
+2020-04-15,Western Cape,693
+2020-04-15,Gauteng,997
+2020-04-15,KwaZulu-Natal,573
+2020-04-15,Eastern Cape,222
+2020-04-15,Unknown,12
+2020-04-15,Free State,98
+2020-04-15,North West,33
+2020-04-15,Mpumalanga,28
+2020-04-15,Limpopo,24
+2020-04-15,Northern Cape,10
+2020-04-16,Western Cape,732
+2020-04-16,Gauteng,1059
+2020-04-16,KwaZulu-Natal,605
+2020-04-16,Eastern Cape,249
+2020-04-16,Unknown,12
+2020-04-16,Free State,99
+2020-04-16,North West,33
+2020-04-16,Mpumalanga,31
+2020-04-16,Limpopo,24
+2020-04-16,Northern Cape,10
+2020-04-17,Western Cape,852
+2020-04-17,Gauteng,1119
+2020-04-17,KwaZulu-Natal,646
+2020-04-17,Eastern Cape,272
+2020-04-17,Unknown,14
+2020-04-17,Free State,100
+2020-04-17,North West,36
+2020-04-17,Mpumalanga,32
+2020-04-17,Limpopo,25
+2020-04-17,Northern Cape,10
+2020-04-18,Western Cape,903
+2020-04-18,Gauteng,1160
+2020-04-18,KwaZulu-Natal,668
+2020-04-18,Eastern Cape,294
+2020-04-18,Unknown,14
+2020-04-18,Free State,100
+2020-04-18,North West,37
+2020-04-18,Mpumalanga,33
+2020-04-18,Limpopo,26
+2020-04-18,Northern Cape,10
+2020-04-19,Western Cape,947
+2020-04-19,Gauteng,1179
+2020-04-19,KwaZulu-Natal,689
+2020-04-19,Eastern Cape,311
+2020-04-19,Unknown,14
+2020-04-19,Free State,100
+2020-04-19,North West,38
+2020-04-19,Mpumalanga,33
+2020-04-19,Limpopo,26
+2020-04-19,Northern Cape,10
+2020-04-20,Western Cape,1010
+2020-04-20,Gauteng,1204
+2020-04-20,KwaZulu-Natal,705
+2020-04-20,Eastern Cape,333
+2020-04-20,Unknown,14
+2020-04-20,Free State,106
+2020-04-20,North West,41
+2020-04-20,Mpumalanga,33
+2020-04-20,Limpopo,26
+2020-04-20,Northern Cape,12
+2020-04-21,Western Cape,1104
+2020-04-21,Gauteng,1240
+2020-04-21,KwaZulu-Natal,772
+2020-04-21,Eastern Cape,369
+2020-04-21,Unknown,14
+2020-04-21,Free State,107
+2020-04-21,North West,42
+2020-04-21,Mpumalanga,34
+2020-04-21,Limpopo,26
+2020-04-21,Northern Cape,12
+2020-04-22,Western Cape,1227
+2020-04-22,Gauteng,1261
+2020-04-22,KwaZulu-Natal,816
+2020-04-22,Eastern Cape,402
+2020-04-22,Unknown,34
+2020-04-22,Free State,107
+2020-04-22,North West,43
+2020-04-22,Mpumalanga,34
+2020-04-22,Limpopo,26
+2020-04-22,Northern Cape,12
+2020-04-23,Western Cape,1319
+2020-04-23,Gauteng,1275
+2020-04-23,KwaZulu-Natal,852
+2020-04-23,Eastern Cape,435
+2020-04-23,Unknown,155
+2020-04-23,Free State,107
+2020-04-23,North West,43
+2020-04-23,Mpumalanga,34
+2020-04-23,Limpopo,26
+2020-04-23,Northern Cape,12
